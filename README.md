@@ -15,4 +15,4 @@ A full system where an AI agent captures website leads, gives an instant solar-s
 
 #### 📫 Reach me
 - 📧 franko.gelo1@gmail.com
-- 💼 LinkedIn — _add your link_
+- 💼 [LinkedIn](https://www.linkedin.com/in/franko-gelo-70ab3a404/)
