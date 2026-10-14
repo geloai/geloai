@@ -1,10 +1,11 @@
 ### Hi, I'm Franko 👋
 
-I build **AI-powered automation systems** — turning real business problems into working software with LLMs, APIs and a bit of glue code.
+I build **AI systems that take repetitive work off teams**, so people spend their time on judgment, not data entry.
 
-- 🔭 Building end-to-end AI agents (LLMs + APIs + messaging)
-- 🎯 Looking for an **internship / junior role** in AI & automation
-- 🌍 Croatia
+- 🤝 I partner with industry experts: they bring the process, I turn it into an AI system
+- 📏 How I work: map & measure where the hours go → pilot one process with human review → prove it against work done by hand
+- 🎓 Business & Economics @ EFZG
+- 🌍 Zagreb, Croatia
 
 #### 🛠️ Tech I work with
 `Node.js` · `Express` · `Anthropic Claude API` · `SQLite` · `WhatsApp Cloud API` · `Google Maps / Solar APIs` · `Airtable` · `REST APIs` · `Git`
